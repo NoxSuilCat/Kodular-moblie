@@ -1,6 +1,6 @@
 # kodular mobile
-make to your Mobile phone.(is not moblie I forgot the word mobile, not moblie. lol)
-
+making your apps for Your phone.
+ 
 # notification
 This is not an official app, this is the official website of Kodular. 
 
